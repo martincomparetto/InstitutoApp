@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/349df0ff-0f9b-4044-bbc9-771cfd74520e/resourceGroups/InstituApp/providers/Microsoft.Web/sites/instituto",
+    "appService.deploySubpath": "publish"
+}
