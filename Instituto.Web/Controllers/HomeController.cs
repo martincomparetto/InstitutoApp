@@ -19,6 +19,9 @@ namespace Instituto.Web.Controllers
         private readonly ApplicationDbContext _context;
         private readonly UserManager<Usuario> _userManager;
 
+
+
+
         public HomeController(ILogger<HomeController> logger, ApplicationDbContext context, UserManager<Usuario> userManager)
         {
             _logger = logger;
